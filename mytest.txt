@@ -1,2 +1,4 @@
 this is a test for this project git rename
 manger change test
+这是即将提交到暂存区的文件
+现在是测试删除commit是否更变工作区
